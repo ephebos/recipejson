@@ -1,0 +1,64 @@
+{
+        "recipes": [
+            {
+                "categoryName": "Starters",
+                "recipe": [
+                    {
+                        "recipeName": "Albanian Style Liver",
+                        "recipeLevel": "Easy",
+                        "recipeImage": "assets/images/.jpg",
+                        "details": [
+                            {
+                                "recipeTime": "radioButton",
+                                "recipeServe": "yes",
+                                "recipeIngredients": "1",
+                                "recipeSteps": "1"
+                            },
+                        ]
+                    },
+                    {
+                        "recipeName": "Albanian Style Liver",
+                        "recipeLevel": "Easy",
+                        "recipeImage": "assets/images/.jpg",
+                        "details": [
+                            {
+                                "recipeTime": "radioButton",
+                                "recipeServe": "yes",
+                                "recipeIngredients": "1",
+                                "recipeSteps": "1"
+                            },
+                        ]
+                    },
+                ]
+            },
+            "categoryName": "Easy Cook",
+                "recipe": [
+                    {
+                        "recipeName": "Albanian Style Liver",
+                        "recipeLevel": "Easy",
+                        "recipeImage": "assets/images/.jpg",
+                        "details": [
+                            {
+                                "recipeTime": "radioButton",
+                                "recipeServe": "yes",
+                                "recipeIngredients": "ajsfnkjasbfksbafkbsakfbksafkjsabfkbaskjfbakjsbfjka",
+                                "recipeSteps": "sajfbkasjbfksjabflasbflsafkjbsakjfbkjasbfasjkbfajsbfkajsbfkjabsf"
+                            },
+                        ]
+                    },
+                    {
+                        "recipeName": "Albanian Style Liver",
+                        "recipeLevel": "Easy",
+                        "recipeImage": "assets/images/.jpg",
+                        "details": [
+                            {
+                                "recipeTime": "radioButton",
+                                "recipeServe": "yes",
+                                "recipeIngredients": "sajlfnsjanfljsanfljsanfljsanflsanflasnfklansf",
+                                "recipeSteps": "naksfnaknsfoasnfasnflanfasnfjasnfjkanfasfkasjfbskabfkasbfkj"
+                            },
+                        ]
+                    },
+                ]
+            }
+}
