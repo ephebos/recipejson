@@ -1,67 +1,33 @@
 {
-        "food": [
-            {
-                "categoryName": "Starters",
-                "recipes": [
-                    {
-                        "recipeName": "Albanian Style Liver",
-                        "recipeLevel": "uniqID",
-                        "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-                        "details": [
-                            {
-                                "recipeTime": "radioButton",
-                                "recipeServe": "yes",
-                                "recipeIngredients": "ajfhıahfksahfsahfhsafasflkjaslfbslafblasbflsabfasbflasb",
-                                "recipeSteps": "hsafuhasufbousabflsbafsbflsbaflbsalfbsajkfbkabsfkasbf"
-                            }
-                        ]
-                    },
-                    {
-                        "recipeName": "Kumru Tost",
-                        "recipeLevel": "uniqID",
-                        "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-                        "details": [
-                            {
-                                "recipeTime": "radioButton",
-                                "recipeServe": "yes",
-                                "recipeIngredients": "ajfhıahfksahfsahfhsafasflkjaslfbslafblasbflsabfasbflasb",
-                                "recipeSteps": "hsafuhasufbousabflsbafsbflsbaflbsalfbsajkfbkabsfkasbf"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-            "categoryName": "Easy Cook",
-                "recipes": [
-                    {
-                        "recipeName": "Albanian Style Liver",
-                        "recipeLevel": "uniqID",
-                        "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-                        "details": [
-                            {
-                                "recipeTime": "radioButton",
-                                "recipeServe": "yes",
-                                "recipeIngredients": "ajfhıahfksahfsahfhsafasflkjaslfbslafblasbflsabfasbflasb",
-                                "recipeSteps": "hsafuhasufbousabflsbafsbflsbaflbsalfbsajkfbkabsfkasbf"
-                            }
-                        ]
-                    },
-                    {
-                        "recipeName": "Albanian Style Liver",
-                        "recipeLevel": "uniqID",
-                        "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-                        "details": [
-                            {
-                                "recipeTime": "radioButton",
-                                "recipeServe": "yes",
-                                "recipeIngredients": "ajfhıahfksahfsahfhsafasflkjaslfbslafblasbflsabfasbflasb",
-                                "recipeSteps": "hsafuhasufbousabflsbafsbflsbaflbsalfbsajkfbkabsfkasbf"
-                            }
-                        ]
-                    }
-                    ]
-            }
-        ]
-    
+  "homePageRecipe" : [{
+    "id" : "0",
+    "name" : "Albanian Style Liver",
+    "level" : "Easy",
+    "img" : "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "time" : "30 Min",
+    "serve" : "2 Servings",
+    "ingredients" : "Liver, Salt, BlackPepper, dskmfkdsmfkdmsfkmdfmdsfkmsdkfmsdf",
+    "steps" : "saöşflsaöfsalmfsalmfşlamfşlsamfasmfşsamfşmasfşlasmfşlsamfşlasmfşlsamfşsalmfşlmasşfmşasmfşamsfşasmfşamsfşamfşasmfş"
+  },
+  {
+    "id" : "1",
+    "name" : "Chicken Salad",
+    "level" : "Easy",
+    "img" : "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "time" : "30 Min",
+    "serve" : "2 Servings",
+    "ingredients" : "Liver, Salt, BlackPepper, dskmfkdsmfkdmsfkmdfmdsfkmsdkfmsdf",
+    "steps" : "saöşflsaöfsalmfsalmfşlamfşlsamfasmfşsamfşmasfşlasmfşlsamfşlasmfşlsamfşsalmfşlmasşfmşasmfşamsfşasmfşamsfşamfşasmfş"
+  },
+  {
+    "id" : "2",
+    "name" : "Potato Salad",
+    "level" : "Easy",
+    "img" : "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "time" : "30 Min",
+    "serve" : "2 Servings",
+    "ingredients" : "Liver, Salt, BlackPepper, dskmfkdsmfkdmsfkmdfmdsfkmsdkfmsdf",
+    "steps" : "saöşflsaöfsalmfsalmfşlamfşlsamfasmfşsamfşmasfşlasmfşlsamfşlasmfşlsamfşsalmfşlmasşfmşasmfşamsfşasmfşamsfşamfşasmfş"
+  }
+  ]
 }
