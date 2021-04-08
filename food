@@ -28,6 +28,16 @@
     "serve" : "2 Servings",
     "ingredients" : "Liver, Salt, BlackPepper, dskmfkdsmfkdmsfkmdfmdsfkmsdkfmsdf",
     "steps" : "saöşflsaöfsalmfsalmfşlamfşlsamfasmfşsamfşmasfşlasmfşlsamfşlasmfşlsamfşsalmfşlmasşfmşasmfşamsfşasmfşamsfşamfşasmfş"
+  },
+  {
+    "id" : "3",
+    "name" : "Potato Salad",
+    "level" : "Easy",
+    "img" : "https://i1.wp.com/www.eatthis.com/wp-content/uploads/2019/10/pumpkin-pad-thai-recipe.jpg?resize=640%2C360&ssl=1",
+    "time" : "30 Min",
+    "serve" : "2 Servings",
+    "ingredients" : "Liver, Salt, BlackPepper, dskmfkdsmfkdmsfkmdfmdsfkmsdkfmsdf",
+    "steps" : "saöşflsaöfsalmfsalmfşlamfşlsamfasmfşsamfşmasfşlasmfşlsamfşlasmfşlsamfşsalmfşlmasşfmşasmfşamsfşasmfşamsfşamfşasmfş"
   }
   ]
 }
